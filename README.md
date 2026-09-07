@@ -78,6 +78,6 @@ The report was published and managed in Power BI Service.
 
 
 ### Policy Detail Drill-Through
-![Policy Detail Drill-Through](images/Policy_Details_Page.png)
+![Policy Detail Drill-Through](Images/Policy_Details_Page.png)
 
 *Detailed policy-level information page for in-depth analysis of individual policies.*
