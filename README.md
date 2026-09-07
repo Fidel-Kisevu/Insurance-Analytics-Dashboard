@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Insurance Analytics Dashboard](ANALYTICS DASHBOARD.png)
+![Insurance Analytics Dashboard](ANALYTICS_DASHBOARD.png)
 
 *Interactive Power BI dashboard showing key insurance metrics, claims analysis, and policy insights.*
 
@@ -78,6 +78,6 @@ The report was published and managed in Power BI Service.
 
 
 ### Policy Detail Drill-Through
-![Policy Detail Drill-Through](images/Policy Details Page.png)
+![Policy Detail Drill-Through](images/Policy_Details_Page.png)
 
 *Detailed policy-level information page for in-depth analysis of individual policies.*
